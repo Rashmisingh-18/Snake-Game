@@ -1,4 +1,4 @@
-# Snake-Game
+# Snake-Game 🐍🐍
 ### Snake Game using HTMl, CSS and JS
 
 ![Untitled and 3 more pages - Personal - Microsoft​ Edge 23-01-2022 10 25 48 PM (2)](https://user-images.githubusercontent.com/90052358/150689239-026653e2-2126-4d7a-8d36-86067d99235d.png)
